@@ -1,6 +1,6 @@
 # Salience-aware-Learning
 
-Code for our paper [Table-based Fact Verification with Salience-aware Learning](https://arxiv.org/abs/2109.04053) at EMNLP 2021.
+Code for our paper [Table-based Fact Verification with Salience-aware Learning](https://arxiv.org/abs/2109.04053) at EMNLP 2021 Findings.
 
 ## Installation
 ```bash
