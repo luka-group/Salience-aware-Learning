@@ -45,3 +45,20 @@ cd token_replacement
 cd joint_model
 bash run_joint_model.sh
 ```
+## Citing
+```
+@inproceedings{wang-etal-2021-table-based,
+    title = "Table-based Fact Verification With Salience-aware Learning",
+    author = "Wang, Fei  and
+      Sun, Kexuan  and
+      Pujara, Jay  and
+      Szekely, Pedro  and
+      Chen, Muhao",
+    booktitle = "EMNLP - findings",
+    year = "2021",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2021.findings-emnlp.338",
+    pages = "4025--4036"
+}
+
+```
